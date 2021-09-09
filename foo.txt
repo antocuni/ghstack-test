@@ -1,7 +1,7 @@
 === beginning of file ====
 
 first commit in branch3
-
+second commit in branch3
 
 
 
