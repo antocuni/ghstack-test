@@ -2,7 +2,7 @@
 
 first commit in branch3
 second commit in branch3
-
+third commit in branch3
 
 
 === middle of file ===
