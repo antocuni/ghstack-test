@@ -1,1 +1,13 @@
-1
+=== beginning of file ====
+
+first commit in branch3
+
+
+
+
+=== middle of file ===
+
+
+
+
+=== end of file ===
