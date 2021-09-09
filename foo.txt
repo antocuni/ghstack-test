@@ -7,7 +7,7 @@ first commit in branch3
 
 === middle of file ===
 
-this commit is done in the "first commit" branch (PR 6)
-this is another commit done in PR6, which hopefully will appear also in PR 9 and 10
+
+
 
 === end of file ===
