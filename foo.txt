@@ -1,6 +1,7 @@
 === beginning of file ====
 
 first commit in branch3
+another commit in PR 6
 
 
 
