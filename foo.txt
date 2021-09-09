@@ -10,6 +10,6 @@ third commit
 === middle of file ===
 
 this commit is done in the "first commit" branch (PR 6)
-
+this hopefully will appear in PR6 and also 9/10
 
 === end of file ===
